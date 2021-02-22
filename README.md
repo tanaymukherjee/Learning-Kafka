@@ -89,7 +89,8 @@ message 3
 If you go side-by-side with the terminal windows you can type in the producer window and see the results appear in the consumer
 
 ## Doing Python connection with Kafka
-<to be updated>
+
+- Work in progress. To be updated soon.
 
 ## References
 1. https://www.youtube.com/watch?v=PzPXRmVHMxI
