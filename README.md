@@ -88,8 +88,12 @@ message 3
 ```
 If you go side-by-side with the terminal windows you can type in the producer window and see the results appear in the consumer
 
+## Doing Python connection with Kafka
+<to be updated>
+
 ## References
 1. https://medium.com/better-programming/an-introduction-to-apache-kafka-95a82260c1c3
 2. https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1
 3. https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb (Detailed Read)
 4. https://medium.com/hacking-talent/kafka-all-you-need-to-know-8c7251b49ad0
+5. http://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#supported-queries
