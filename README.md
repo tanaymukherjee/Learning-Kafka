@@ -31,7 +31,7 @@ To resolve this issue, there is the concept of a replica, i.e. a duplicate of ea
 What is unique about Kafka is that it keeps all the messages for a set amount of time (this can be indefinitely). Each message has an offset, or position, in this message log. Instead of Kafka managing which message a consumer is up to, Kafka delegates this responsibility entirely to the consumer itself. By doing this, Kafka is able to support many more consumers.
 
 ## Kafka - Sumamry
-![image](https://user-images.githubusercontent.com/6689256/108030350-1a162500-6ffd-11eb-9d5d-940f5994b654.png)
+![image](https://user-images.githubusercontent.com/6689256/108741029-4998c600-7504-11eb-9e5a-5c81f4abd4a1.png)
 
 ## a) Installing Kafka
 1. Install the Java Development Kit (JDK): http://www.oracle.com/technetwork/java/javase/downloads/index.html
